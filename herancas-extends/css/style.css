@@ -1,0 +1,21 @@
+.btn, .btn-green {
+  width: 125px;
+  padding: 10px 0px;
+  border-radius: 10px;
+  display: block;
+  margin-top: 10px;
+}
+.btn.btn-purple, .btn-purple.btn-green {
+  background-color: purple;
+  color: white;
+}
+.btn.btn-yellow, .btn-yellow.btn-green {
+  background-color: yellow;
+}
+
+.btn-green {
+  background-color: green;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
