@@ -14,13 +14,15 @@
 }
 
 #cadastro-text {
-  color: red;
+  color: rgb(12, 12, 71);
+  font-size: 15px;
+  font-family: "sans-serif";
 }
 
 .container p {
-  font-size: 22px;
-  color: blue;
-  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  font-size: 40px;
+  font-family: "arial";
 }
 
 /*# sourceMappingURL=style.css.map */
